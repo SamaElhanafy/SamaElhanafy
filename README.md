@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sama</h1>
-<h3 align="center">Frontend</h3>
+<h3 align="center">Frontend Developer</h3>
 <img align="right" alt="Coding" width = "400" src = "https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iahmedashrafi&label=Profile%20views&color=0e75b6&style=flat" alt="iahmedashrafi" /> </p>
